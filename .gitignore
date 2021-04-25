@@ -34,4 +34,4 @@ build/
 
 ### Personal Files ###
 AmazonConfig.java
-application.properties
+src/main/resources/application.properties
