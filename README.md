@@ -7,3 +7,8 @@ Based by https://www.youtube.com/watch?v=i-hoSg8iRG0
 2021.04.21
 I'm adding run config=> Environment variable: AWS_REGION=ap-northeast-2
 (On running local env)
+
+2021.04.28
+Adding JPA architecture
+Based by https://www.youtube.com/watch?v=8SGI_XS5OPw&list=WL&index=3
+(Amigoscode - Spring Boot Tutorial | Spring Data JPA | 2021)
