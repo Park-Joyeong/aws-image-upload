@@ -35,3 +35,4 @@ build/
 ### Personal Files ###
 AmazonConfig.java
 src/main/resources/application.properties
+src/main/resources/application-demo.yml
